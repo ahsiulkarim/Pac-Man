@@ -1,5 +1,4 @@
 # Pac3man: Python3 port of Berkeley Pacman
-# 🟡 Pac3man — Python 3 Port of Berkeley Pacman AI
 
 > A complete Python 3 port of the [UC Berkeley Pacman AI Projects](http://ai.berkeley.edu), extended with a Markov Text Babbler and a Naïve Bayesian Spam Classifier.
 
